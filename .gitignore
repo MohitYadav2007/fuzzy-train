@@ -1,0 +1,13 @@
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+*.tif
+*.nc
+delft3d_runs/
+sph_output/
+.venv/
+venv/
+node_modules/
+.DS_Store
+.vscode/
