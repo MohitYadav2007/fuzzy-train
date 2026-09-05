@@ -3,6 +3,7 @@ data/raw/*
 data/processed/*
 !data/processed/.gitkeep
 *.tif
+!data/sample/*.tif
 *.nc
 delft3d_runs/
 sph_output/
